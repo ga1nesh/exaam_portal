@@ -1,0 +1,187 @@
+{
+    "question": [{
+            "questionText": "The motion of the cam is transferred to the valves through",
+            "options": [{
+                    "text": "piston"
+                    
+                },
+                {
+                    "text": "rocker arms",
+                    "correct": true
+                },
+                {
+                    "text": "camshaft pulley"
+                },
+                {
+                    "text": "value stem"
+                }
+            ],
+            "explanation": "No answer description available for this question"
+        },
+        {
+            "questionText": "What type of bearing is used for main bearings and connecting rod bearings ?",
+            "options": [{
+                    "text": "ball bearing"
+                },
+                {
+                    "text": "plain bearing",
+                    "correct": true
+                },
+                {
+                    "text": "neddle roller bearing"
+                },
+                {
+                    "text": "Tappper roller bearing"
+                    
+                }
+            ],
+            "explanation": "This is descriptuive"
+        },
+        {
+            "questionText": "If the engine coolant leaks into the engine oil, then engine oil",
+            "options": [{
+                    "text": "turns black"
+                },
+                {
+                    "text": "becomes foamy"
+                },
+                {
+                    "text": "appears milky",
+                    "correct": true
+                },
+                {
+                    "text": "none of these"
+                }
+            ],
+            "explanation": "No explaination"
+        },
+        {
+            "questionText": "The torque available at the contact between driving wheels and road is known as",
+            "options": [{
+                    "text": "brake effort"
+                },
+                {
+                    "text": "tractive effort",
+                    "correct": true
+                },
+                {
+                    "text": "clutch effort"
+                },
+                {
+                    "text": "none of these"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "The flow through a nozzle is regarded as",
+            "options": [{
+                    "text": "isentropic flow",
+                    "correct": true
+                },
+                {
+                    "text": "isothermal flow"
+                },
+                {
+                    "text": "constant pressure flow"
+                },
+                {
+                    "text": "constant volume flow"
+                }
+            ],
+            "explanation": " "
+        },
+        {
+            "questionText": "The ratio of total useful heat drop to the total isentropic heat drop, is called",
+            "options": [{
+                    "text": "stage efficiency"
+                },
+                {
+                    "text": "thermal efficiency"
+                },
+                {
+                    "text": "internal efficiency",
+                    "correct": true
+                },
+                {
+                    "text": "none of these"
+                   
+                }
+            ],
+            "explanation": " "
+        },
+        {
+            "questionText": "The impulse reaction turbine has its driving force",
+            "options": [{
+                    "text": "as an impulse force"
+                },
+                {
+                    "text": "as an reactive force",
+                    "correct": true
+                },
+                {
+                    "text": "Partly both",
+                    "correct": true
+                },
+                {
+                    "text": "none"
+                }
+            ],
+            "explanation": " "
+        },
+        {
+            "questionText": "De-Laval turbine is ",
+            "options": [{
+                    "text": "single rotor impulse turbine",
+                    "correct": true
+                },
+                {
+                    "text": "multi-rotor impulse turbine"
+                },
+                {
+                    "text": "impulse reaction turbine"
+                },
+                {
+                    "text": "reaction turbine"
+                }
+            ],
+            "explanation": "   "
+        },
+        {
+            "questionText": "The supersaturated flow of steam through a nozzle as compared to a stable flow, the available heat drop",
+            "options": [{
+                    "text": "decreases",
+                    "correct": true
+                },
+                {
+                    "text": "remains the same"
+                },
+                {
+                    "text": "increases"
+                },
+                {
+                    "text": "is unpredictable"
+                }
+            ],
+            "explanation": "Inverserly proportional"
+        },
+        {
+            "questionText": "In reaction turbines, the axial thrust is due to",
+            "options": [{
+                    "text": "pressure drop across the rotor"
+                },
+                {
+                    "text": "change in axial velocity"
+                },
+                {
+                    "text": "none"
+                },
+                {
+                    "text": "both",
+                    "correct": true
+                }
+            ],
+            "explanation": "Inverserly proportional"
+        }
+    ]
+}

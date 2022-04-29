@@ -1,0 +1,31 @@
+<app-header></app-header>
+<div class="container col-md-10 bg-dark py-3" style="border:4px solid blue" >
+   
+    <div class="container-fluid" >
+    <h2 class="display-5 fw-bold" style="color:azure">Mechanical Quiz</h2>
+    <p class="col-md-8 fs-4" style="color:azure" >No.of question:10</p>
+    <h4  style="color:azure">Instructions:</h4>
+    <ol  style="color:azure">
+        <li>
+            Correct Answer: 10pts
+        </li>
+        <li>
+            Wrong Answer:-10pts
+        </li>
+        <li>
+            Don't try to cheat.
+        </li>
+        <li>
+            Stay Home Stay Safe.
+        </li>
+    </ol>
+    <div class="name col-md-4 my-3">
+        <label for=""  style="color:azure">Enter name*</label>
+        <input #name type="text" class="form-control">
+
+    </div>
+    <button class="btn btn-primary btn-lg" routerLink="/question" (click)="startQuiz()">Start!!</button>
+    </div>
+   
+    
+</div>
